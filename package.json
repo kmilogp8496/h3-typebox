@@ -1,8 +1,8 @@
 {
-  "name": "h3-typebox",
+  "name": "@kmilogp8396/h3-typebox",
   "version": "0.6.0",
   "description": "JSON schema validation for h3, using typebox & ajv",
-  "repository": "kevinmarrec/h3-typebox",
+  "repository": "kmilogp8496/h3-typebox",
   "license": "MIT",
   "type": "module",
   "exports": {
@@ -44,5 +44,5 @@
     "unbuild": "latest",
     "vitest": "latest"
   },
-  "packageManager": "pnpm@7.12.0"
+  "packageManager": "pnpm@8.6.12"
 }
